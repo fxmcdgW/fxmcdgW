@@ -1,4 +1,4 @@
-## Olá, Sou o fxmcdg, mais conhecido como FX!
+## Olá, Sou o fxmcdg, mas conhecido como FX!
  <div>
   <a href="https://github.com/fxmcdgW">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fxmcdgW&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
